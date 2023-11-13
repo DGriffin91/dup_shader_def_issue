@@ -1,0 +1,1 @@
+@group(#{TARGET_GROUP_N}) @binding(#{TARGET_ENTRY_N}) var screen_texture: texture_2d<f32>;
